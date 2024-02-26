@@ -1,11 +1,9 @@
 ###
 
-<br clear="both">
 
-<img align="left" height="198" src="https://img.freepik.com/free-vector/young-man-using-laptop-standing-by-window-night_107791-25477.jpg?t=st=1708966844~exp=1708970444~hmac=3cdb8416726cb5c1d4586369e68e75576655bf01e8edc8182af0ccc381724f71&w=826"  />
+<img align="left" height="210" src="https://img.freepik.com/free-vector/young-man-using-laptop-standing-by-window-night_107791-25477.jpg?t=st=1708966844~exp=1708970444~hmac=3cdb8416726cb5c1d4586369e68e75576655bf01e8edc8182af0ccc381724f71&w=826"  />
 
 <br clear="both">
-###
 
 <h2 align="left">Hi 👋! My name is Poorna Chandra and I'm a Developer from India</h2>
 
