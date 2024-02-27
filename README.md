@@ -5,7 +5,7 @@
 </div>
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Poorna Chandra and I'm a Developer from India</h2>
+<h2 align="left">Hi 👋! My name is Poorna Chandra and I'm a FullStack Developer.</h2>
 
 ###
 
