@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-<img align="center" height="210" src="https://img.freepik.com/free-vector/young-man-using-laptop-standing-by-window-night_107791-25477.jpg?t=st=1708966844~exp=1708970444~hmac=3cdb8416726cb5c1d4586369e68e75576655bf01e8edc8182af0ccc381724f71&w=826"  />
+<img align="center" height="210" src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-7524-61f6-af09-819b772a82c1/raw?se=2025-04-24T15%3A48%3A19Z&sp=r&sv=2024-08-04&sr=b&scid=4f94dab6-e5f1-5394-81de-83da2f3301cb&skoid=3f3a9132-9530-48ef-96b7-fee5a811733f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-24T03%3A29%3A23Z&ske=2025-04-25T03%3A29%3A23Z&sks=b&skv=2024-08-04&sig=mFnXmYJukXuJu/ODV4pnlu1kCX1OH8llIwvswLATB38%3D"  />
 </div>
 <br clear="both">
 
