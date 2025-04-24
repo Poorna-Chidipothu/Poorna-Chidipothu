@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-<img align="center" height="210" src="blob:https://imgur.com/41141d40-630d-44ba-89fc-a5f15d270bff"  />
+<img align="center" height="210" src="https://i.imgur.com/MaCi56X.png"  />
 </div>
 <br clear="both">
 
